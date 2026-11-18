@@ -1,0 +1,10 @@
+# GitHub-қа жіберілмейтін файлдар (құпия және уақытша)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
